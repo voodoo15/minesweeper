@@ -1,0 +1,27 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "description": "Codecademy Project - Build Minesweeper with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voodoo15/minesweeper.git"
+  },
+  "keywords": [
+    "minesweeper",
+    "codecademy",
+    "javascript"
+  ],
+  "author": "Arnold Redoblado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voodoo15/minesweeper/issues"
+  },
+  "homepage": "https://github.com/voodoo15/minesweeper#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
